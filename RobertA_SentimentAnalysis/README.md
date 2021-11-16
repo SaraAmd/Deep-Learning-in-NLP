@@ -1,8 +1,8 @@
 Install torch and tranformer modules.
 
-The main4.py has the code for training the model. 
+The train.py has the code for training the model. 
 
-Run main4.py for training the model
+Run test.py for training the model
 
-To test the code on test datset, have main5.py, model.py and Test.csv
-in the same directory and run the main5.py
+Due to big size of the model, the trained model is not uploaded in this repository
+
